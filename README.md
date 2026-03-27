@@ -29,8 +29,7 @@ currently learning Next.js and TypeScript, while working on growing my backend s
 
 ## 📊 GitHub Stats
 
-![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=00IRCA&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00IRCA&layout=compact&theme=tokyonight&hide_border=true)
+![Metrics](/github-metrics.svg)
 
 ---
 
